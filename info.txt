@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 things
 stuffs
+=======
+newthings
+>>>>>>> trial2
